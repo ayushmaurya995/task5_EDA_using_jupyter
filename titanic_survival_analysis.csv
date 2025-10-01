@@ -1,0 +1,14 @@
+Category,Count,Survivors,Survival_Rate
+Overall,891,342,0.384
+Male,577,109,0.189
+Female,314,233,0.742
+Class 1,216,136,0.63
+Class 2,184,87,0.473
+Class 3,491,119,0.242
+Children (0-12),69,40,0.58
+Adults (19-35),358,137,0.383
+Seniors (60+),22,5,0.227
+With Family,354,179,0.506
+Alone,537,163,0.304
+High Fare,222,129,0.581
+Low Fare,223,44,0.197
